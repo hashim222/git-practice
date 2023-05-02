@@ -1,3 +1,3 @@
 # git-practice
 
-### I'm a clone user
+### I'm Hashim aslam's clone version of the code.
