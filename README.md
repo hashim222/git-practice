@@ -2,4 +2,4 @@
 
 ### I'm original user.
 
-* As a clone user i'm making changes
+* As a main repo owner, i'm making changes.
