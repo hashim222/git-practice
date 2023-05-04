@@ -1,10 +1,7 @@
 # git-practice
 
-### I'm clone user.
+### I'm original user.
 
-- As a clone repo, i'm making changes.
+- As a original repo, i'm making changes.
 
-# clone clone
-# clone clone
-# clone clone
-# clone clone
+# original original
